@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consejo Electoral Estudiantil Universitario</title>
+    <link>https://ceeu21.github.io/</link>
+    <description>Recent content on Consejo Electoral Estudiantil Universitario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-gt</language><atom:link href="https://ceeu21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de</title>
+      <link>https://ceeu21.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ceeu21.github.io/about/</guid>
+      <description>¿Qué es el CEEU? El Consejo Electoral Estudiantil Universitario (CEEU) es el ente regulador del proceso electoral de la Asociación de Estudiantes Universitarios Oliverio Castañeda de León (AEU).
+Convocado por el Consejo Consultivo Estudiantil Universitario (CCEU) el día lunes 21 de junio de 2021 en sesión extraordinaria 06-2021.</description>
+    </item>
+    
+    <item>
+      <title>Contáctanos</title>
+      <link>https://ceeu21.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ceeu21.github.io/contact/</guid>
+      <description>¿Tienes alguna duda o comentario? Puedes contactarnos al correo usac.ceeu.2021@gmail.com o a través de nuestras cuentas de Facebook, Twitter e Instagram</description>
+    </item>
+    
+  </channel>
+</rss>

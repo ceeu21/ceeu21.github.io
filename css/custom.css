@@ -1,0 +1,17 @@
+.bg-dark-blue {
+    background-color: #023973;
+}
+
+.fw2 {
+    min-width: 120px;
+}
+
+.gdoc {
+    width: 100%;
+    min-height: 800px;
+}
+
+.gdoc-link {
+    font-size: 12px;
+    display: block;
+}
