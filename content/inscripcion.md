@@ -7,7 +7,7 @@ menu: main
 
 ## Requisitos
 
-Toda planilla que desee inscribirse para el proceso de elección de Comité Ejecutivo y Comisiones de Trabajo de la AEU "Oliverio Castañeda de León" periodo 2021-2023 deberá cumplir con los siguientes requisitos:
+Toda planilla que desee inscribirse para el proceso de elección del Comité Ejecutivo y Comisiones de Trabajo de la AEU "Oliverio Castañeda de León" periodo 2021-2023 deberá cumplir con los siguientes requisitos:
 
 - Igualdad y paridad de género
 - Inclusividad
@@ -36,10 +36,10 @@ Las planillas podrán presentar su papelería a partir del 06 de julio de 2021 h
 1. Realizar una carpeta con un folder individual por cada integrante de la planilla, adjuntando toda la documentación que se le solicita, además de estar ordenado por comité ejecutivo y las comisiones  de trabajo. **Toda la documentación que entreguen en físico de la planilla tendrá que venir con una copia digitalizada.**
     - A continuación se detalla el orden de los cargos y comisiones:
     Comité Ejecutivo:
-        - Secretaria general
-        - Secretaria general adjunta
-        - Secretaria de finanzas
-        - Secretaria de actas.
+        - Secretaría general
+        - Secretaría general adjunta
+        - Secretaría de finanzas
+        - Secretaría de actas.
         - Comisiones de trabajo:
             - Comisión de Asuntos Universitarios: 2 candidaturas.
             - Comisión de Asuntos Nacionales y Populares: 2 candidaturas.
@@ -80,4 +80,4 @@ siguientes documentos en original y copia digital:
 
 ## ¿Dudas?
 
-Ante cualquier duda puedes comunicarte al correo comisionderecepcionceeu@gmail.com o usac.ceeu.2021@gmail.com
+Ante cualquier duda puedes comunicarte a los correos comisionderecepcionceeu@gmail.com o usac.ceeu.2021@gmail.com
