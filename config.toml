@@ -1,5 +1,6 @@
 baseURL = "https://ceeu21.github.io/"
-languageCode = "es-gt"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "Consejo Electoral Estudiantil Universitario"
 theme = "ananke"
 [params]
