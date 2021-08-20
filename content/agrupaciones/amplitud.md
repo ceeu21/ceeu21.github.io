@@ -14,6 +14,13 @@ Facebook: [@amplitud.usac ](https://www.facebook.com/amplitud.usac)
 
 **[Papelería presentada](https://drive.google.com/drive/folders/1uNIAQ2dRhIzVY4WmglVZ7gFSKige0C44?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)
 
+## Recursos de Nulidad de Inscripción Recibidos
+
+1. [Recurso Ref. 01](/recursos-nulidad/01/)
+1. [Recurso Ref. 03](/recursos-nulidad/03/)
+1. [Recurso Ref. 05](/recursos-nulidad/05/)
+1. [Recurso Ref. 06](/recursos-nulidad/06/)
+
 ### *¿Encontraste alguna anomalía?*
 
 Puedes realizar una impugnación enviando un correo a [comisionderecepcionceeu@gmail.com](mailto:comisionderecepcionceeu@gmail.com) con el asunto **Impugnación (*Fecha*)**.

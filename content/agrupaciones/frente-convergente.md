@@ -4,6 +4,8 @@ omit_header_text: true
 type: page
 ---
 
+De conformidad al *punto tercero* del acta *[CEEU No. 19-2021](/actas/19/)* la agrupación Frente Convergente es **oficialmente inscrita** para las elecciones de AEU 2021-2023 siéndole asignado el número **1** para su identificación como planilla.
+
 ![](/img/logos/frente-convergente.png)
 
 ## Contacto
@@ -19,6 +21,10 @@ TikTok: [@frenteconvergente](https://www.tiktok.com/@frenteconvergente)
 ## Documentación
 
 **[Papelería presentada](https://drive.google.com/drive/folders/1glyLEezwI3EpMXgeXP_RGYA7LYzvRYOR?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)
+
+## Recursos de Nulidad de Inscripción Recibidos
+
+*No se presentaron recursos*
 
 ### *¿Encontraste alguna anomalía?*
 

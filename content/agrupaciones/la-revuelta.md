@@ -18,6 +18,13 @@ Twitter: [@lar3vuelta](https://twitter.com/lar3vuelta)
 
 **[Papelería presentada](https://drive.google.com/drive/folders/1PBVPm0YOj6MCnZMQXbT_9UBfXiwbEcv2?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)
 
+## Recursos de Nulidad de Inscripción Recibidos
+
+1. [Recurso Ref. 02](/recursos-nulidad/02/)
+1. [Recurso Ref. 04](/recursos-nulidad/04/)
+1. [Recurso Ref. 06](/recursos-nulidad/06/)
+1. [Recurso Ref. 07](/recursos-nulidad/07/)
+
 ### *¿Encontraste alguna anomalía?*
 
 Puedes realizar una impugnación enviando un correo a [comisionderecepcionceeu@gmail.com](mailto:comisionderecepcionceeu@gmail.com) con el asunto **Impugnación (*Fecha*)**.
