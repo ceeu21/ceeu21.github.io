@@ -4,6 +4,8 @@ omit_header_text: true
 type: page
 ---
 
+De conformidad al *punto único* del acta *[CEEU No. 20-2021](/actas/20/)* la agrupación La Revuelta es **oficialmente inscrita** para las elecciones de AEU 2021-2023 siéndole asignado el número **2** para su identificación como planilla.
+
 ![](/img/logos/la-revuelta.png)
 
 ## Contacto
