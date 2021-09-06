@@ -12,6 +12,10 @@ Facebook: [@amplitud.usac ](https://www.facebook.com/amplitud.usac)
 
 ## Documentación
 
+**Reemplazo Secretaría General** Ander  Gilberto Popol Porón [Ver papelería](https://drive.google.com/drive/folders/1fw0Y8YGtiWOslNyaCHrtSSVeK96dNLNs?usp=sharing)
+
+**Reemplazo  Comisión de Asuntos Nacionales y Populares** Axel  Alejandro Acabal Hernández [Ver papelería](https://drive.google.com/drive/folders/1gQsvBC1J2OVjXStk4Pj2Mxp1MpIwtny8?usp=sharing)
+
 **[Papelería presentada](https://drive.google.com/drive/folders/1uNIAQ2dRhIzVY4WmglVZ7gFSKige0C44?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)
 
 ## Recursos de Nulidad de Inscripción Recibidos
