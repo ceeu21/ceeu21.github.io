@@ -9,6 +9,10 @@ menu: main
 
 {{< gdoc src = "https://docs.google.com/document/d/e/2PACX-1vT-deV5ApINF6IpTKl4s6QMHN9gKgpA87c6iNx60SrvEwY0TgDgjx_pj57oLode2MPSehpCNk0bn_OK/pub?embedded=true" >}}
 
+### REGLAMENTO DE DEBATES VIRTUALES
+
+{{< gdoc src = "https://docs.google.com/document/d/e/2PACX-1vT6UQiPKXfa7Yk4mTAkRBLNT7Q78hatOJyPyoiVDyzFgunORE5m1EDkbAQOP9WlE_Oy22YGYlgvJfRt/pub" >}}
+
 ### Estatutos Asociación de Estudiantes Universitarios "Oliverio Castañeda de León"
 
 {{< gdoc src = "https://docs.google.com/document/d/e/2PACX-1vR1dpTgaACpXhha-YpA20hY_bmqCX4zWHmkkIYEt7YF5p2S-Pc8KMtnt8YKZbWoUpVez8OlPJK058sS/pub?embedded=true" >}}
