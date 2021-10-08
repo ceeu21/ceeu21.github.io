@@ -20,7 +20,7 @@ TikTok: [@frenteconvergente](https://www.tiktok.com/@frenteconvergente)
 
 ## Plan de Trabajo
 
-*No han presentado*
+[Ver aquí](https://drive.google.com/file/d/1UrkFbr9XOmuwtOUow1j9ta71GsD01jOq/view?usp=sharing)
 
 ## Documentación
 
