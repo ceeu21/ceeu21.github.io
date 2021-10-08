@@ -12,7 +12,7 @@ Facebook: [@amplitud.usac ](https://www.facebook.com/amplitud.usac)
 
 ## Plan de Trabajo
 
-[Ver aquí](https://drive.google.com/file/d/1_udYuxadv9JO1bocrmtuUSitfIqzXMhs/view?usp=sharing
+[Ver aquí](https://drive.google.com/file/d/1_udYuxadv9JO1bocrmtuUSitfIqzXMhs/view?usp=sharing)
 
 ## Documentación
 
