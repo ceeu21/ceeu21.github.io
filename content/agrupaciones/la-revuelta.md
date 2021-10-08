@@ -16,6 +16,10 @@ Instagram: [@lar3vuelta](https://instagram.com/lar3vuelta)
 
 Twitter: [@lar3vuelta](https://twitter.com/lar3vuelta)
 
+## Plan de Trabajo
+
+[Ver aquí](https://drive.google.com/file/d/1KtUxDg8BnyriNrdBRRezytaKAZbbtkKN/view?usp=sharing)
+
 ## Documentación
 
 **[Papelería presentada](https://drive.google.com/drive/folders/1PBVPm0YOj6MCnZMQXbT_9UBfXiwbEcv2?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)

@@ -18,6 +18,10 @@ Twitter: [@FrenteConverge](https://twitter.com/FrenteConverge)
 
 TikTok: [@frenteconvergente](https://www.tiktok.com/@frenteconvergente)
 
+## Plan de Trabajo
+
+*No han presentado*
+
 ## Documentación
 
 **[Papelería presentada](https://drive.google.com/drive/folders/1glyLEezwI3EpMXgeXP_RGYA7LYzvRYOR?usp=sharing)** (*Nota: toda la información sensible fue ocultada por motivos de seguridad, si necesitas tener acceso a ellos puedes enviar una solicitud a comisionderecepcionceeu@gmail.com*)

@@ -10,6 +10,10 @@ type: page
 
 Facebook: [@amplitud.usac ](https://www.facebook.com/amplitud.usac)
 
+## Plan de Trabajo
+
+[Ver aquí](https://drive.google.com/file/d/1_udYuxadv9JO1bocrmtuUSitfIqzXMhs/view?usp=sharing
+
 ## Documentación
 
 **Reemplazo Secretaría General** Ander  Gilberto Popol Porón [Ver papelería](https://drive.google.com/drive/folders/1fw0Y8YGtiWOslNyaCHrtSSVeK96dNLNs?usp=sharing)
